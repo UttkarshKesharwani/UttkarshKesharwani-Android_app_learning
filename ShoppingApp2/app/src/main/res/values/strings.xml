@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="title_text">Let\' Choice <b> Your Own Style </b>  </string>
+    <string name="log_out">Do you really want to log out</string>
+    <string name="Successfull_Registration">Congratulations, you have \ncompleted your registration! </string>
+</resources>

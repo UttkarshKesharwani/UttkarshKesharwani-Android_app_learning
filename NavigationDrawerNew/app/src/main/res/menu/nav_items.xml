@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/baseline_call_24"
+            android:id="@+id/calls"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:title="Calls" />
+        <item
+            android:icon="@drawable/baseline_message_24"
+            android:id="@+id/message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:title="Messages" />
+    </group>
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/baseline_group_24"
+            android:id="@+id/new_group"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:title="New Group" />
+
+        <item
+            android:icon="@drawable/baseline_contacts_24"
+            android:id="@+id/contact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:title="Contacts"
+            />
+    </group>
+
+
+</menu>
